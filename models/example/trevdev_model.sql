@@ -1,0 +1,1 @@
+select 'this is a custom job test' as col
